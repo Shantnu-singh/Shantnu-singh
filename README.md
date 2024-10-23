@@ -91,22 +91,88 @@
 </div>
 
 <hr>
-<h2 align="center"> GSSOC(24) Badges 🪶</h2>
 
-<div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+## :zap: Open Source Programs & Achievements
+
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="">
+          <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <br>
+          <strong>GirlScript Summer of Code</strong>
+        </a>
+        <br>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 125th</span>
+        <br>
+        <span style="font-size: 12px; color: #777777;">
+	  Out of 17,000+ participants<br>
+          PRs Merged: 32<br>
+          Total Badges: 6<br>
+          Total Score: 1030<br>
+        </span>
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
+        <table>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <br>
+              <strong>Explorer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <br>
+              <strong>Adventurer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
+              <br>
+              <strong>Champion Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <br>
+              <strong>Trailblazer Badge</strong>
+            </td>
+          </tr>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <br>
+              <strong>Summit Seeker Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
+              <br>
+<!--               <strong>Summit Seeker Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Conqueror%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <br>
+              <strong>>API Student Expert</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <br> -->
+              <strong>API Student Expert</strong>
+              <br>
+              <span style="font-size: 12px; color: #777777;">Postman</span>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
-</details>
+
+<br>
+
 
 <h4 align="center">
   <a href="https://github.com/Shantnu-singh?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
-
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

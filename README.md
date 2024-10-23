@@ -94,7 +94,8 @@
 <br>
 <div align="center" left-margin = "30px">
   <!-- GitHub Trophies -->
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shantnu-singh&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+	
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shantnu-singh&theme=darkhub&column=8&margin-w=12" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 <hr>
 
@@ -123,48 +124,48 @@
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <img src="https://github.com/Shantnu-singh/Shantnu-singh/blob/main/images/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
               <br>
               <strong>Explorer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <img src="https://github.com/Shantnu-singh/Shantnu-singh/blob/main/images/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
               <br>
               <strong>Adventurer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
+              <img src="https://github.com/Shantnu-singh/Shantnu-singh/blob/main/images/Champion%20Badge.png" alt="Champion Badge" width="80" />
               <br>
               <strong>Champion Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <img src="https://github.com/Shantnu-singh/Shantnu-singh/blob/main/images/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
           </tr>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <img src="https://github.com/Shantnu-singh/Shantnu-singh/blob/main/images/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
               <strong>Summit Seeker Badge</strong>
             </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+<!--             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
-              <br>
+              <br> -->
 <!--               <strong>Summit Seeker Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="Conqueror%20Badge.png" alt="Summit Seeker Badge" width="80" />
-              <br>
-              <strong>>API Student Expert</strong>
+              <br> -->
+<!--               <strong>>API Student Expert</strong> -->
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
-              <br> -->
-              <strong>API Student Expert</strong>
+              <img src="https://github.com/Shantnu-singh/Shantnu-singh/blob/main/images/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
               <br>
-              <span style="font-size: 12px; color: #777777;">Postman</span>
+              <strong>API Student Expert Postman</strong>
+              <br>
+<!--               <span style="font-size: 12px; color: #777777;">Postman</span> -->
             </td>
           </tr>
         </table>

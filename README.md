@@ -129,12 +129,12 @@
               <strong>Explorer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Shantnu-singh/Shantnu-singh/blob/main/images/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <img src="images/Adventurer Badge.png" alt="Adventurer Badge" width="80" />
               <br>
               <strong>Adventurer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Shantnu-singh/Shantnu-singh/blob/main/images/Champion%20Badge.png" alt="Champion Badge" width="80" />
+              <img src="images/Champion Badge.png" alt="Champion Badge" width="80" />
               <br>
               <strong>Champion Badge</strong>
             </td>

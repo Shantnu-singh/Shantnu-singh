@@ -124,7 +124,7 @@
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Shantnu-singh/Shantnu-singh/blob/main/images/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <img src="images/Explorer Badge.png" alt="Explorer Badge" width="80" />
               <br>
               <strong>Explorer Badge</strong>
             </td>

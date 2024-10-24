@@ -139,14 +139,14 @@
               <strong>Champion Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="https://github.com/Shantnu-singh/Shantnu-singh/blob/main/images/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <img src="images/Trailblazer Badge.png" alt="Trailblazer Badge" width="80" />
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
           </tr>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/Shantnu-singh/Shantnu-singh/blob/main/images/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <img src="images/Summit Seeker Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
               <strong>Summit Seeker Badge</strong>
             </td>

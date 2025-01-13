@@ -81,7 +81,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shantnu-singh&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ananya's GitHub Streak" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shantnu-singh&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Shantnu's GitHub Streak" /></p>
 </div>
 
 <div align="center">

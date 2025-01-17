@@ -21,7 +21,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning image colorisation using pix2pix GAN model
+  📚 I’m currently learning Continual learning 
   <br>
   💬 Ask me anything about from <a href="https://github.com/Shantnu-singh/Shantnu-singh/issues" title="Issues">Here</a>
   <br>

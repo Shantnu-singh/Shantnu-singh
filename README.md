@@ -96,7 +96,7 @@
 <div align="center" left-margin = "30px">
   <!-- GitHub Trophies -->
 	
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shantnu-singh&theme=darkhub&column=8&margin-w=12rank=-C,-B,-?" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Shantnu-singh&theme=darkhub&column=8&margin-w=12&rank=-C,-B,-?" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 <hr>
 
@@ -202,4 +202,5 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 ![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
 -->
+
 

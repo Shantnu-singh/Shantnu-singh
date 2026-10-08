@@ -96,7 +96,7 @@
 <div align="center" left-margin = "30px">
   <!-- GitHub Trophies -->
 	
-  <img align="center" src="https://github-profile-trophy-sigma-one.vercel.app/?username=Shantnu-singh&theme=darkhub&column=8&margin-w=12&rank=-C,-B,-?" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+  <img align="center" src="https://github-profile-trophy-unserori.vercel.app/?username=Shantnu-singh&theme=darkhub&column=8&margin-w=12&rank=-C,-B,-?" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 <hr>
 
